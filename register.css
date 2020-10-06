@@ -1,0 +1,50 @@
+body
+{
+   background-color:#766FB0;
+   margin: 0; 
+   padding: 0;
+}
+
+
+.register
+{
+    width:530px;
+    height: 560px;
+    background-color:white;
+    top:6%;
+    left:31%;
+    overflow: hidden;
+    position: absolute;
+    text-align: center;
+}
+
+#un{
+    padding:7px;
+    width:320px;
+    border-radius: 12px;
+    border: 2px solid #ccc;
+}
+
+button {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    padding: 14px 20px;
+    margin: 8px 0;
+    cursor: pointer;
+    width: 40%;
+    border-radius: 22px;
+  }
+
+  button:hover {
+      opacity: 0.6;
+  }
+  
+
+
+  .icon1
+  {
+    font-size:32px;
+    border-radius: 2px;
+    color:#1A1357"
+  }
